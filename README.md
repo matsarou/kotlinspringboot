@@ -21,3 +21,8 @@ curl -H "Content-Type: application/json" -X PUT -d '{
     "lastName": "Simões Krebs"
 }'  http://localhost:8080/6
 ```
+
+```
+The initial code was taken from this site: https://auth0.com/blog/developing-restful-apis-with-kotlin/
+My intention is to evolve it.
+```
